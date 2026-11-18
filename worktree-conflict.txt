@@ -1,1 +1,1 @@
-Skill testing documentation
+Resolved: Skill testing and MCP server documentation integrated.
