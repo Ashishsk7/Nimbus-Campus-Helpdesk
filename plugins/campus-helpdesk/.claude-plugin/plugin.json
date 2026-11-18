@@ -1,0 +1,5 @@
+{
+  "name": "campus-helpdesk",
+  "version": "0.1.0",
+  "description": "Nimbus Campus Helpdesk: timetable-helper Skill, /timetable-check command, data-protection hook and MCP server config (mock data only)."
+}

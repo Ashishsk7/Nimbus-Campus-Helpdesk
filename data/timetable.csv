@@ -1,0 +1,32 @@
+batch,day,start_time,end_time,course_code,course_name,room,faculty
+CSE-A,Monday,09:00,10:00,CS201,Data Structures,Room 301,Prof. Rao
+CSE-A,Monday,10:00,11:00,MA201,Discrete Mathematics,Room 301,Prof. Iyer
+CSE-A,Monday,11:15,12:15,CS203,Object-Oriented Programming,Room 302,Prof. Kulkarni
+CSE-A,Monday,14:00,16:00,CS2L1,Data Structures Lab,Lab 2,Prof. Rao
+CSE-A,Tuesday,09:00,10:00,CS202,Database Management Systems,Room 301,Prof. Nair
+CSE-A,Tuesday,10:00,11:00,CS204,Computer Networks,Room 303,Prof. Deshmukh
+CSE-A,Tuesday,11:15,12:15,HS201,Communication Skills,Room 105,Prof. Fernandes
+CSE-A,Wednesday,09:00,10:00,CS201,Data Structures,Room 301,Prof. Rao
+CSE-A,Wednesday,10:00,11:00,CS203,Object-Oriented Programming,Room 302,Prof. Kulkarni
+CSE-A,Wednesday,11:15,12:15,CS202,Database Management Systems,Room 301,Prof. Nair
+CSE-A,Thursday,09:00,10:00,MA201,Discrete Mathematics,Room 301,Prof. Iyer
+CSE-A,Thursday,10:00,11:00,CS204,Computer Networks,Room 303,Prof. Deshmukh
+CSE-A,Thursday,14:00,16:00,CS2L2,Database Lab,Lab 3,Prof. Nair
+CSE-A,Friday,09:00,10:00,CS203,Object-Oriented Programming,Room 302,Prof. Kulkarni
+CSE-A,Friday,10:00,11:00,CS202,Database Management Systems,Room 301,Prof. Nair
+CSE-A,Friday,11:15,12:15,HS201,Communication Skills,Room 105,Prof. Fernandes
+CSE-B,Monday,09:00,10:00,CS204,Computer Networks,Room 401,Prof. Deshmukh
+CSE-B,Monday,10:00,11:00,CS201,Data Structures,Room 401,Prof. Menon
+CSE-B,Monday,11:15,12:15,MA201,Discrete Mathematics,Room 401,Prof. Iyer
+CSE-B,Tuesday,09:00,10:00,CS203,Object-Oriented Programming,Room 402,Prof. Joshi
+CSE-B,Tuesday,10:00,11:00,CS202,Database Management Systems,Room 401,Prof. Nair
+CSE-B,Tuesday,14:00,16:00,CS2L1,Data Structures Lab,Lab 2,Prof. Menon
+CSE-B,Wednesday,09:00,10:00,CS204,Computer Networks,Room 401,Prof. Deshmukh
+CSE-B,Wednesday,10:00,11:00,HS201,Communication Skills,Room 105,Prof. Fernandes
+CSE-B,Wednesday,11:15,12:15,CS201,Data Structures,Room 401,Prof. Menon
+CSE-B,Thursday,09:00,10:00,CS202,Database Management Systems,Room 401,Prof. Nair
+CSE-B,Thursday,10:00,11:00,CS203,Object-Oriented Programming,Room 402,Prof. Joshi
+CSE-B,Thursday,11:15,12:15,MA201,Discrete Mathematics,Room 401,Prof. Iyer
+CSE-B,Friday,09:00,10:00,CS201,Data Structures,Room 401,Prof. Menon
+CSE-B,Friday,10:00,11:00,CS204,Computer Networks,Room 401,Prof. Deshmukh
+CSE-B,Friday,14:00,16:00,CS2L2,Database Lab,Lab 3,Prof. Nair

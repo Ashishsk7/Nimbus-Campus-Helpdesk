@@ -1,0 +1,8 @@
+{
+  "_note": "MOCK DATA ONLY. Fictional students, fictional amounts (INR). Not real people.",
+  "students": {
+    "STU1001": {"status": "PAID",    "amount_due": 0,     "last_payment_date": "2026-08-10"},
+    "STU1002": {"status": "PARTIAL", "amount_due": 15000, "last_payment_date": "2026-08-22"},
+    "STU1003": {"status": "OVERDUE", "amount_due": 42000, "last_payment_date": "2026-02-14"}
+  }
+}

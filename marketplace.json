@@ -1,0 +1,14 @@
+{
+  "name": "nimbus-campus",
+  "description": "Marketplace for the Nimbus Campus Helpdesk assignment (mock data only)",
+  "owner": {
+    "name": "Student (replace with your name)"
+  },
+  "plugins": [
+    {
+      "name": "campus-helpdesk",
+      "source": "./plugins/campus-helpdesk",
+      "description": "Timetable Skill, /timetable-check command, data-protection hook and MCP server config"
+    }
+  ]
+}

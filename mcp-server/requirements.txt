@@ -1,0 +1,4 @@
+# Official MCP Python SDK. The "cli" extra adds the `mcp` command (mcp dev ...) used for the Inspector.
+# Version is intentionally NOT pinned here because no install was performed while preparing this project.
+# After you install, run `pip show mcp` and record the real version in docs/part-d-jsonrpc-evidence.md.
+mcp[cli]
